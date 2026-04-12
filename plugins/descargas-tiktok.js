@@ -73,7 +73,7 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
                         ? data.vistas.toLocaleString() 
                         : '0';
       
-      const caption = `₊‧꒰ 🦈 ꒱ 𝙀𝙇𝙇𝙀𝙉 𝙅𝙊𝙀 𝙏𝙄𝙆𝙏𝙊𝙆\n\n> *Autor:* ${data.autor || 'Desconocido'}\n> *Título:* ${data.titulo || 'Sin título'}\n> *Duración:* ${data.duracion || '---'}\n> *Vistas:* ${vistasStr}\n\n*— Elige si quieres audio o video.*`;
+      const caption = `₊‧꒰ 🦈 ꒱ Kitsury Waifu 𝙏𝙄𝙆𝙏𝙊𝙆\n\n> *Autor:* ${data.autor || 'Desconocido'}\n> *Título:* ${data.titulo || 'Sin título'}\n> *Duración:* ${data.duracion || '---'}\n> *Vistas:* ${vistasStr}\n\n*— Elige si quieres audio o video.*`;
 
       const buttons = [
         { buttonId: `${usedPrefix}${command} video ${queryOrUrl}`, buttonText: { displayText: '🎬 𝙑𝙄𝘿𝙀𝙊' }, type: 1 },
