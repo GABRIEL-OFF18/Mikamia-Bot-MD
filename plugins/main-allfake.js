@@ -47,16 +47,16 @@ handler.all = async function (m) {
   global.creador = 'Wa.me/18096758983'
   global.ofcbot = `${conn.user.jid.split('@')[0]}`
   global.asistencia = 'Wa.me/18096758983'
-  global.namechannel = '*Ellen-Joe-BOT-CHANNEL*'
-  global.namechannel2 = '*Ellen-Joe-BOT-CHANNEL*'
-  global.namegrupo = '*Ellen-Joe-BOT-OFICIAL*'
-  global.namecomu = '*Ellen-Joe-BOT-COMMUNITY*'
-  global.listo = '🦈 *Aquí tienes ฅ^•ﻌ•^ฅ*'
+  global.namechannel = '*KITSURY-MD-CHANNEL*'
+  global.namechannel2 = '*Kitsury-BOT-CHANNEL*'
+  global.namegrupo = '*Kitsury-BOT-OFICIAL*'
+  global.namecomu = '*Kitsury-BOT-COMMUNITY*'
+  global.listo = '🫪 *Aquí tienes ฅ^•ﻌ•^ฅ*'
   global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
 
   // Ids channel
-  global.canalIdM = ["120363418071540900@newsletter", "120363418071540900@newsletter"]
-  global.canalNombreM = ["⏤͟͞ू⃪፝͜⁞⟡ 𝐄llen 𝐉ᴏᴇ\'s 𝐒ervice", "⏤͟͞ू⃪፝͜⁞⟡ 𝐄llen 𝐉ᴏᴇ\'s 𝐒ervice"]
+  global.canalIdM = ["120363424677971125@newsletter", "120363424677971125@newsletter"]
+  global.canalNombreM = ["⏤͟͞ू⃪፝͜⁞⟡ Kitsury Waifu\'s 𝐒ervice", "⏤͟͞ू⃪፝͜⁞⟡ Kitsury Waifu\'s 𝐒ervice"]
   
   // Función para canal random (corregida para usar la variable global)
   async function getRandomChannel() {
@@ -81,11 +81,11 @@ handler.all = async function (m) {
   global.msm = '⚠︎'
 
   // Emojis Ellen Bot
-  global.emoji = '🦈'
-  global.emoji2 = '🦈'
-  global.emoji3 = '🦈'
-  global.emoji4 = '🦈'
-  global.emoji5 = '🦈'
+  global.emoji = '🐢'
+  global.emoji2 = '😋'
+  global.emoji3 = '👅'
+  global.emoji4 = '🌟'
+  global.emoji5 = '✨'
   global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
   global.wait = '⚘𖠵⃕❖𖥔 𝑪𝒂𝒓𝒈𝒂𝒏𝒅𝒐...ꪶꪾ❍̵̤̂ꫂ\n❝ 𝐴𝑔𝑢aru𝑑𝑒 𝑢𝑛 𝑚𝑜𝑚𝑒𝑛𝑡𝑜 ❞';
