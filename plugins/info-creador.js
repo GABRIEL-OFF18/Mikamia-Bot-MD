@@ -26,7 +26,7 @@ async function handler(m, { conn }) {
     },
     {
       numero: '573208304714',
-      nombre: '⏤͟͞ू⃪ ꒰˘͈ᵕ ˘͈ 𝑳𝒆𝒈𝒏𝒂-𝒄𝒉𝒂𝒏 🪽 ꒱𖦹',
+      nombre: '⏤͟͞ू⃪ ꒰˘͈ᵕ ˘͈ Iam-Mat 🪽 ꒱𖦹',
       cargo: 'soporte',
       nota: 'Resolucion de probremas',
       correo: 'sin información',
