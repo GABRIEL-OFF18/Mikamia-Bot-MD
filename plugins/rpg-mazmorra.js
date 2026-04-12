@@ -3,8 +3,8 @@ import fetch from 'node-fetch';
 let cooldowns = {};
 
 // Configuración del Newsletter/Canal
-const newsletterJid = '120363418071540900@newsletter';
-const newsletterName = '⸙ְ̻࠭ꪆ🦈 𝐄llen 𝐉ᴏ𝐄 𖥔 Sᥱrvice';
+const newsletterJid = '120363424677971125@newsletter';
+const newsletterName = '⸙ְ̻࠭ꪆ🫪 Kitsury Waifu 𖥔 Sᥱrvice';
 
 let handler = async (m, { conn, usedPrefix, command }) => {
     // Definición de variables para evitar errores de "not defined"
@@ -27,7 +27,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
             serverMessageId: -1
         },
         externalAdReply: {
-            title: '🦈 𝙑𝙄𝘾𝙏𝙊𝙍𝙄𝘼 𝙃𝙊𝙐𝙎𝙀𝙆𝙀𝙀𝙋𝙄𝙉𝙂',
+            title: '🫪 𝙑𝙄𝘾𝙏𝙊𝙍𝙄𝘼 𝙃𝙊𝙐𝙎𝙀𝙆𝙀𝙀𝙋𝙄𝙉𝙂',
             body: `— Limpieza de Cavidades para ${name}`,
             thumbnail: icons, 
             sourceUrl: redes,
@@ -73,7 +73,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 
     cooldowns[m.sender] = Date.now();
 
-    let info = `🦈 **𝐑𝐄𝐏𝐎𝐑𝐓𝐄 𝐃𝐄 𝐌𝐈𝐒𝐈𝐎́𝐍: 𝐇𝐎𝐋𝐋𝐎𝐖**
+    let info = `🫰 **𝐑𝐄𝐏𝐎𝐑𝐓𝐄 𝐃𝐄 𝐌𝐈𝐒𝐈𝐎́𝐍: 𝐇𝐎𝐋𝐋𝐎𝐖**
 
 📍 **Zona:** ${evento.nombre}
 💬 **Notas:** ${evento.mensaje}
