@@ -11,7 +11,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
 
     const currentSize = (participants || []).length
     const groupName = groupMetadata?.subject || 'Esta Cavidad'
-    const defaultImg = 'https://github.com/nevi-dev/nevi-dev/blob/main/src/%E2%98%85%20Ellen%20Joe.jpeg?raw=true'
+    const defaultImg = 'https://api.dix.lat/media/file_1776038231462_RTtf1FYMQ7.jpg'
 
     // --- FUNCIÓN INTERNA PARA ENVIAR (PERSONALIDAD ELLEN JOE) ---
     const sendEllenMsg = async (jid, text, user, title) => {
