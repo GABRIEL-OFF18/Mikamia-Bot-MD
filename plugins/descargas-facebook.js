@@ -1,7 +1,7 @@
 import { igdl } from 'ruhend-scraper' // Assuming 'igdl' can handle Facebook links based on the original code's usage
 
 // --- Constantes y Configuración de Transmisión (Estilo Ellen Joe) ---
-const newsletterJid = '120363418071540900@newsletter';
+const newsletterJid = '120363424677971125@newsletter';
 const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ 𝐄llen 𝐉ᴏ𝐄\'s 𝐒ervice';
 
 const handler = async (m, { text, conn, args }) => {
