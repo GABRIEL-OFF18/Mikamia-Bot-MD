@@ -119,6 +119,6 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
 
 handler.help = ['play <búsqueda>', 'play2 <busqueda>', 'ytmp4 <busqueda>'];
 handler.tags = ['descargas'];
-handler.command = ['play'];
+handler.command = ['play', 'play2', 'ytmp4'];
 
 export default handler;
