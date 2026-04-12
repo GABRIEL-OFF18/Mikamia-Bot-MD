@@ -18,7 +18,6 @@ handler.help = ['trabajar']
 handler.tags = ['economy']
 handler.command = ['w','work','chambear','chamba', 'trabajar']
 handler.group = true;
-handler.register = true;
 
 export default handler
 
