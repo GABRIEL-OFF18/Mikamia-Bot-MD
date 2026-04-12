@@ -64,17 +64,17 @@ global.fkontak = {
 global.APIKeys = {};
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '🦈⟶꯭̽𝑬𝒍𝒍𝒆𝒏 ꯭𝑱𝒐𝒆͙𝆭͢͟⎯̽―̥ 𝑺𝒉𝒂𝒓𝒌 𝑸𝒖𝒆𝒆𝒏'
-global.botname = '⏤͟͟͞͞⸙ְ̻࠭🦈ᩙ kitsury waifu MD 𑂘⃘۪〬🫐ᩙ⸙ְ̻࠭'
+global.packname = '🦈⟶꯭̽Nagi ꯭AI⎯̽―̥ 𝑺𝒉𝒂𝒓𝒌 𝑸𝒖𝒆𝒆𝒏'
+global.botname = '⏤͟͟͞͞⸙ְ̻࠭🦈ᩙ NAGI AI MD 𑂘⃘۪〬🫐ᩙ⸙ְ̻࠭'
 global.wm = '🌹⟶꯭̽Kitsury ͞ ̵𝆭⎯꯭̽Waifu⎯̽―̥ 𝐌𝐃 🌹'
 global.author = '𐔌 Fedx-Dev 𓆩 ͡꒱'
 global.dev = '⚙️ ⌬ 𝙲𝚞𝚜𝚝𝚘𝚖 𝙼𝚘𝚍𝚜 𝙱𝚢 𐔌fedex-𝚍𝚎𝚟 💻🛠️'
-global.textbot = '⏤͟͞ू⃪ Kitsury-Waifu🌸⃝𖤐 • 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 Fede-dev'
+global.textbot = '⏤͟͞ू⃪ NAGI-AI🌸⃝𖤐 • 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 Fede-dev'
 global.etiqueta = 'ˑ 𓈒 𐔌 fede-d͙e͙v͙ ͡꒱ ۫'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.moneda = 'Denique'
+global.moneda = 'Nagis'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
 global.banner = 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1747289219876.jpeg'
