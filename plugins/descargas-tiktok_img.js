@@ -5,7 +5,7 @@ import axios from 'axios';
 import cheerio from 'cheerio';
 
 // --- Constantes y Configuración de Transmisión (Estilo Ellen Joe) ---
-const newsletterJid = '120363418071540900@newsletter';
+const newsletterJid = '120363424677971125@newsletter';
 const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ 𝐄llen 𝐉ᴏ𝐄\'s 𝐒ervice';
 
 let handler = async (m, { conn, text, args, command, usedPrefix }) => {
