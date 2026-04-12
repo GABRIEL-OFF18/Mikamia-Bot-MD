@@ -3,7 +3,7 @@ import * as cheerio from 'cheerio'
 import fetch from 'node-fetch'
 
 // --- Constantes y Configuración de Transmisión (Estilo Ellen Joe) ---
-const newsletterJid = '120363418071540900@newsletter';
+const newsletterJid = '1120363424677971125@newsletter';
 const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ 𝐄llen 𝐉ᴏ𝐄\'s 𝐒ervice';
 
 // --- HEADERS OPTIMIZADOS
