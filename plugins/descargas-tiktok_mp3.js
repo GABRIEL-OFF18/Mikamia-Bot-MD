@@ -2,7 +2,7 @@ import fetch from 'node-fetch';
 import yts from 'yt-search'; // Not used in the original logic, but kept if other parts of your bot use it.
 
 // --- Constantes y Configuración de Transmisión (Estilo Ellen Joe) ---
-const newsletterJid = '120363418071540900@newsletter';
+const newsletterJid = '120363424677971125@newsletter';
 const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ 𝐄llen 𝐉ᴏ𝐄\'s 𝐒ervice';
 
 let handler = async (m, { conn, text, usedPrefix, command }) => {
