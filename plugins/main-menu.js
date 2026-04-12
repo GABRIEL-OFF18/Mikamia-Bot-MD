@@ -6,9 +6,9 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 import phoneNumber from 'awesome-phonenumber';
 
-const newsletterJid = '120363418071540900@newsletter';
-const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ 𝐄llen 𝐉ᴏ𝐄\'s 𝐒ervice';
-const packname = '˚🄴🄻🄼🄴🄽-🄹🄾🄴-🄱🄾🅃';
+const newsletterJid = '120363424677971125@newsletter';
+const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ Kitsury\'s 𝐒ervice';
+const packname = '˚Kitsury-waifu';
 const redes = 'https://github.com/nevi-dev';
 
 const GITHUB_REPO_OWNER = 'nevi-dev';
@@ -98,7 +98,7 @@ let handler = async (m, { conn, usedPrefix, text }) => {
 
   const sep = '——————————————————';
   const encabezado = `
-🦈 **𝐄𝐋𝐋𝐄𝐍 𝐉𝐎𝐄 | 𝐒𝐄𝐑𝐕𝐈𝐂𝐄 𝐌𝐄𝐍𝐔**
+👅 **Kitsury-Waifu| 𝐒𝐄𝐑𝐕𝐈𝐂𝐄 𝐌𝐄𝐍𝐔**
 ${sep}
 *— (Bostezo)... Bienvenid@ a New Eridu.*
 
