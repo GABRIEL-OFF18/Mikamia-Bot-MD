@@ -39,7 +39,7 @@ global.baileys = 'V 6.7.16'
 global.languaje = 'Español'
 global.vs = '2.2.0'
 global.nameqr = 'ellen-joe-bot'
-global.namebot = 'ᯓ★ 𝑬𝒍𝒍𝒆𝒏 𝑱𝒐𝒆 𝑩𝒐𝒕 ִֶָ ࣪ ִֶָ🪽་༘࿐'
+global.namebot = 'ᯓ★ KITSURY-WAIFU ִֶָ ࣪ ִֶָ🪽་༘࿐'
 global.Ellensessions = 'EllenSessions'
 global.jadi = 'EllenJadiBots'
 global.EllenJadibts = true
@@ -65,12 +65,12 @@ global.APIKeys = {};
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = '🦈⟶꯭̽𝑬𝒍𝒍𝒆𝒏 ꯭𝑱𝒐𝒆͙𝆭͢͟⎯̽―̥ 𝑺𝒉𝒂𝒓𝒌 𝑸𝒖𝒆𝒆𝒏'
-global.botname = '⏤͟͟͞͞⸙ְ̻࠭🦈ᩙ 𝙀𝙡𝙡𝙚𝙣 𝙅𝙤𝙚 𝘽𝙤𝙩 𝙈𝘿 𑂘⃘۪〬🫐ᩙ⸙ְ̻࠭'
-global.wm = '🌹⟶꯭̽𝐄𝐥𝐥𝐞᪱͢𝐧 ͞ ̵𝆭⎯꯭̽𝐉𝐨࡙ͥ͞𝐞ͣ͟ 𝐁𝐨࡙ͫ𝐭꯭͠⎯̽―̥ 𝐌𝐃 🌹'
-global.author = '𐔌 𝗡𝗲𝘃𝗶-𝗗𝗲𝘃 𓆩 ͡꒱'
-global.dev = '⚙️ ⌬ 𝙲𝚞𝚜𝚝𝚘𝚖 𝙼𝚘𝚍𝚜 𝙱𝚢 𐔌𝚗𝚎𝚟𝚒-𝚍𝚎𝚟 💻🛠️'
-global.textbot = '⏤͟͞ू⃪ 𝑬𝒍𝒍𝒆𝒏-𝑱𝒐𝒆-𝑩𝒐𝒕🌸⃝𖤐 • 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 ⁿᵉᵛⁱ⁻ᵈᵉᵛ'
-global.etiqueta = 'ˑ 𓈒 𐔌 n͙e͙v͙i͙-d͙e͙v͙ ͡꒱ ۫'
+global.botname = '⏤͟͟͞͞⸙ְ̻࠭🦈ᩙ kitsury waifu MD 𑂘⃘۪〬🫐ᩙ⸙ְ̻࠭'
+global.wm = '🌹⟶꯭̽Kitsury ͞ ̵𝆭⎯꯭̽Waifu⎯̽―̥ 𝐌𝐃 🌹'
+global.author = '𐔌 Fedx-Dev 𓆩 ͡꒱'
+global.dev = '⚙️ ⌬ 𝙲𝚞𝚜𝚝𝚘𝚖 𝙼𝚘𝚍𝚜 𝙱𝚢 𐔌fedex-𝚍𝚎𝚟 💻🛠️'
+global.textbot = '⏤͟͞ू⃪ Kitsury-Waifu🌸⃝𖤐 • 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 Fede-dev'
+global.etiqueta = 'ˑ 𓈒 𐔌 fede-d͙e͙v͙ ͡꒱ ۫'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
