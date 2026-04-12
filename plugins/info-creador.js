@@ -15,22 +15,22 @@ async function handler(m, { conn }) {
       biografia: await conn.fetchStatus('18294868853@s.whatsapp.net').then(res => res.status).catch(_ => 'Sin biografía')
     },
     {
-      numero: '',
+      numero: '51941658192',
       nombre: '⟆⃝༉⃟⸙ ᯽ Ian|Fedex ⌗⚙️࿐',
       cargo: 'Desarrollador y ayudante',
       nota: 'Soporte Técnico',
       correo: 'sin información',
-      region: '🇩🇴 República Dominicana',
+      region: '🇵🇪 Perú',
       web: 'https://github.com/nevi-dev',
       biografia: await conn.fetchStatus('18096758983@s.whatsapp.net').then(res => res.status).catch(_ => 'Sin biografía')
     },
     {
-      numero: '5216671548329',
+      numero: '573208304714',
       nombre: '⏤͟͞ू⃪ ꒰˘͈ᵕ ˘͈ 𝑳𝒆𝒈𝒏𝒂-𝒄𝒉𝒂𝒏 🪽 ꒱𖦹',
       cargo: 'soporte',
       nota: 'Resolucion de probremas',
       correo: 'sin información',
-      region: '🇲🇽 México',
+      region: '🇻🇪 Venezuela',
       web: 'https://github.com/Legna-chan',
       biografia: await conn.fetchStatus('5216671548329@s.whatsapp.net').then(res => res.status).catch(_ => 'Sin biografía')
     }
