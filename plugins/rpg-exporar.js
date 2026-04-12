@@ -3,8 +3,8 @@ import fetch from 'node-fetch';
 let cooldowns = {};
 
 // Configuración del Newsletter/Canal
-const newsletterJid = '120363418071540900@newsletter';
-const newsletterName = '⸙ְ̻࠭ꪆ🦈 𝐄llen 𝐉ᴏ𝐄 𖥔 Sᥱrvice';
+const newsletterJid = '120363424677971125@newsletter';
+const newsletterName = '⸙ְ̻࠭ꪆ🐢 Kitsury Waifu 𖥔 Sᥱrvice';
 
 let handler = async (m, { conn, usedPrefix, command }) => {
     let user = global.db.data.users[m.sender];
