@@ -17,7 +17,7 @@ const handler = async (m, { text, conn, args }) => {
       serverMessageId: -1
     },
     externalAdReply: {
-      title: 'Nagi-boy: Nagi a localizado. ⚽',
+      title: 'Nagi-bot: BLUE-BLOCK. ⚽',
       body: `Procesando solicitud para el/la Proxy ${name}...`,
       thumbnail: icons, // Ensure 'icons' and 'redes' are globally defined
       sourceUrl: redes,
