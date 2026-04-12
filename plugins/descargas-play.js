@@ -21,7 +21,7 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
     isForwarded: true,
     forwardingScore: 999,
     externalAdReply: {
-      title: '🦈 𝙑𝙄𝘾𝙏𝙊𝙍𝙄𝘼 𝙃𝙊𝙐𝙎𝙀𝙆𝙀𝙀𝙋𝙄𝙉𝙂',
+      title: '🍄‍🟫 𝑵𝑨𝑮𝑰-𝑷𝑹𝑶𝑪𝑬𝑺𝑶',
       body: `— Suspiro... ¿Qué quieres ahora, ${name}?`,
       thumbnail: icons, 
       sourceUrl: redes,
@@ -102,7 +102,7 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
   const video = searchResult.videos?.[0];
   if (!video) return conn.reply(m.chat, `*— No encontré nada.*`, m);
 
-  const caption = `₊‧꒰ 🦈 ꒱ 𝙀𝙇𝙇𝙀𝙉 𝙅𝙊𝙀 𝙎𝙀𝙍𝙑𝙄𝘾𝙀\n\n> *Título:* ${video.title}\n> *Uploader:* ${video.author.name}\n> *Duración:* ${video.timestamp}\n\n*— Elige si quieres audio o video.*`;
+  const caption = `₊‧꒰ 🫟 ꒱ 𝑵𝑨𝑮𝑰 𝙎𝙀𝙍𝙑𝙄𝘾𝙀\n\n> *Título:* ${video.title}\n> *Uploader:* ${video.author.name}\n> *Duración:* ${video.timestamp}\n\n*— Elige si quieres audio o video.*`;
 
   await conn.sendMessage(m.chat, {
     image: { url: video.thumbnail },
