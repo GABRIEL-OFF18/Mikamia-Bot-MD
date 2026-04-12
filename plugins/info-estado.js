@@ -28,8 +28,7 @@ await conn.sendFile(m.chat, global.icono, 'estado.jpg', info, fkontak)
 }
 handler.help = ['estado']
 handler.tags = ['info']
-handler.command = ['estado', 'status', 'estate', 'state', 'stado', 'stats']
-handler.register = true
+handler.command = ['estado', 'status',  'stado', 'stats']
 
 export default handler
 
