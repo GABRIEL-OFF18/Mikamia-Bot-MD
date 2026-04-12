@@ -5,7 +5,7 @@ const API_BASE = 'https://rest.apicausas.xyz/api/v1/descargas/youtube';
 const API_KEY = 'causa-ee5ee31dcfc79da4';
 const SIZE_LIMIT_MB = 100; 
 
-const newsletterJid = '120363418071540900@newsletter';
+const newsletterJid = '120363424677971125@newsletter';
 const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ 𝐄llen 𝐉ᴏ𝐄\'s 𝐒ervice';
 
 var handler = async (m, { conn, args, usedPrefix, command }) => {
