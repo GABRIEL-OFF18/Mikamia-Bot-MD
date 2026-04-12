@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-const newsletterJid = '120363418071540900@newsletter';
-const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ 𝐄llen 𝐉ᴏ𝐄\'s 𝐒ervice';
+const newsletterJid = '120363424677971125@newsletter';
+const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ NAGI-UPDATES';
 
 const handler = async (m, { args, conn }) => {
   const name = conn.getName(m.sender) || 'Proxy';
@@ -16,7 +16,7 @@ const handler = async (m, { args, conn }) => {
       serverMessageId: -1
     },
     externalAdReply: {
-      title: 'Ellen Joe: Pista localizada. 🦈',
+      title: 'NAGI-AI: BLUE-BLOCK. ⚽',
       body: `Procesando solicitud para el/la Proxy ${name}...`,
       thumbnailUrl: icons,
       sourceUrl: redes,
@@ -26,7 +26,7 @@ const handler = async (m, { args, conn }) => {
   };
 
   if (!args[0]) {
-    return conn.reply(m.chat, `🦈 *Rastro frío, ${name}.* Necesito la URL del post o reel.`, m, { contextInfo, quoted: m });
+    return conn.reply(m.chat, `⚽ *Rastro frío, ${name}.* Necesito la URL del post o reel.`, m, { contextInfo, quoted: m });
   }
 
   const url = args[0].trim();
@@ -73,7 +73,7 @@ const handler = async (m, { args, conn }) => {
             `Usuario: ${data.user || 'N/A'}\n` +
             `${data.likes ? `❤️ ${data.likes}\n` : ''}` +
             `Contenido: ${isVideo ? 'Video/Reel' : 'Imagen'}${mediaCount > 1 ? ` (${mediaCount})` : ''}`,
-      footer: 'Ellen Joe\'s Service 🦈',
+      footer: 'Nagi IA\'s Service ⚽',
       templateButtons: [{ urlButton: { displayText: 'Ver original', url } }]
     }, { quoted: m, ...thumbContext });
 
@@ -121,7 +121,7 @@ const handler = async (m, { args, conn }) => {
 
   } catch (e) {
     await m.react('❌');
-    conn.reply(m.chat, `🦈 *La pista se desvaneció, ${name}.*\nNo pude localizar el contenido. Intenta con otro enlace o espera un momento.`, m, { contextInfo, quoted: m });
+    conn.reply(m.chat, `⚽ *La pista se desvaneció, ${name}.*\nNo pude localizar el contenido. Intenta con otro enlace o espera un momento.`, m, { contextInfo, quoted: m });
   }
 };
 
