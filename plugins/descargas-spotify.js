@@ -3,7 +3,7 @@ import axios from 'axios';
 // --- CONFIGURACIÓN ---
 const CAUSA_API_KEY = 'causa-ee5ee31dcfc79da4'; 
 const SIZE_LIMIT_MB = 100;
-const newsletterJid = '120363418071540900@newsletter';
+const newsletterJid = '120363424677971125@newsletter';
 const newsletterName = '⸙ְ̻࠭ꪆ🦈 𝐄llen 𝐉ᴏ𝐄 𖥔 Sᥱrvice';
 
 const handler = async (m, { conn, args, usedPrefix, command }) => {
