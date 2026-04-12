@@ -129,6 +129,5 @@ handler.command = ['instagram', 'ig', 'instadl'];
 handler.tags = ['descargas'];
 handler.help = ['ig <url>'];
 handler.group = true;
-handler.register = true;
 
 export default handler;
