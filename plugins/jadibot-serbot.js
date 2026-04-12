@@ -32,7 +32,7 @@ let drm1 = ""
 let drm2 = ""
 let rtx = `
 *╭─────────────────────*
-*| 🦈 𝗘𝗟𝗟𝗘𝗡 𝗝𝗢𝗘 | ACCESO DE AGENTE 🎄*
+*| 🪾 𝙉𝘼𝙂𝙄 | 𝘽𝙇𝙐𝙀 𝘽𝙇𝙊𝙊𝙆🎄*
 *|  ━━━━━━━━━━━━━━━━━━━━*
 *|   🎄 *CONEXIÓN EXCLUSIVA QR (SUB-BOT)* 🦈
 *|   
@@ -55,9 +55,9 @@ let rtx = `
 // Texto para la Conexión por Código (rtx2)
 let rtx2 = `
 *╭─────────────────────*
-*| 🎄 𝗘𝗟𝗟𝗘𝗡 𝗝𝗢𝗘 | 𝗖Ó𝗗𝗜𝗚𝗢 𝗣𝗥𝗢𝗩𝗜𝗦𝗜𝗢𝗡𝗔𝗟 🎁*
+*| 🎄 𝙉𝘼𝙂𝙄 | 𝗖Ó𝗗𝗜𝗚𝗢 𝗣𝗥𝗢𝗩𝗜𝗦𝗜𝗢𝗡𝗔𝗟 🎁*
 *|  ━━━━━━━━━━━━━━━━━━━━*
-*|   ❄️ *ENLACE DE EMERGENCIA (SUB-BOT CODE)* 🦈
+*|   ❄️ *ENLACE DE EMERGENCIA (SUB-BOT CODE)* 🪻
 *|   
 *|   Este es tu código de Agente temporal. 
 *|   ¡Úsalo sabiamente, no compartas tu botín!
@@ -72,7 +72,7 @@ let rtx2 = `
 *|   ⚠️ *Recomendación de Agente:* No uses tu cuenta 
 *|   principal. Mantén tus activos seguros.
 *|
-*|   [ Ellen Joe Service - By Nevi-Dev ]
+*|   [ 𝙉𝙖𝙜𝙞 𝙎𝙚𝙧𝙫𝙞𝙘𝙚 - By 𝙁𝙚𝙙𝙚𝙭-𝘿𝙚𝙫 ]
 *╰─────────────────────*`
 
 
