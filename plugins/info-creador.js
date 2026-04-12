@@ -5,8 +5,8 @@ async function handler(m, { conn }) {
 
   const contactos = [
     {
-      numero: '18294868853',
-      nombre: '⏤͟͞ू⃪ ፝͜⁞𝘿𝙞𝙤𝙣𝙚𝙞𝙗𝙞-ʳⁱᵖ ִֶ ࣪˖ ִֶָ👑་༘',
+      numero: '59175850453',
+      nombre: '⏤͟͞ू⃪ ፝͜⁞La china ִֶ ࣪˖ ִֶָ😘་༘',
       cargo: 'Dueño Principal',
       nota: 'Creador del Bot',
       correo: 'selinapasena@gmail.com',
@@ -15,8 +15,8 @@ async function handler(m, { conn }) {
       biografia: await conn.fetchStatus('18294868853@s.whatsapp.net').then(res => res.status).catch(_ => 'Sin biografía')
     },
     {
-      numero: '18096758983',
-      nombre: '⟆⃝༉⃟⸙ ᯽ N͙e͙v͙i͙-D͙e͙v͙ ⌗⚙️࿐',
+      numero: '',
+      nombre: '⟆⃝༉⃟⸙ ᯽ Ian|Fedex ⌗⚙️࿐',
       cargo: 'Desarrollador y ayudante',
       nota: 'Soporte Técnico',
       correo: 'sin información',
@@ -27,7 +27,7 @@ async function handler(m, { conn }) {
     {
       numero: '5216671548329',
       nombre: '⏤͟͞ू⃪ ꒰˘͈ᵕ ˘͈ 𝑳𝒆𝒈𝒏𝒂-𝒄𝒉𝒂𝒏 🪽 ꒱𖦹',
-      cargo: 'Co-Desarrolladora y contribudora',
+      cargo: 'soporte',
       nota: 'Resolucion de probremas',
       correo: 'sin información',
       region: '🇲🇽 México',
