@@ -9,6 +9,5 @@ handler.help = ['wallet']
 handler.tags = ['economy']
 handler.command = ['wallet', 'cartera']
 handler.group = true
-handler.register = true
 
 export default handler
