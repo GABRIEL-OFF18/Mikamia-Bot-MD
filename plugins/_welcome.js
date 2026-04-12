@@ -29,8 +29,8 @@ export async function before(m, { conn, participants, groupMetadata }) {
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363418071540900@newsletter',
-            newsletterName: '⸙ְ̻࠭ꪆ 🦈 𝐄llen 𝐉ᴏ𝐄 𖥔 Sᥱrvice',
+            newsletterJid: '120363424677971125@newsletter',
+            newsletterName: '⸙ְ̻࠭ꪆ 🦈 Kitsury 𖥔 Sᥱrvice',
             serverMessageId: -1
           },
           externalAdReply: {
@@ -39,7 +39,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
             thumbnailUrl: pp,
             mediaType: 1,
             renderLargerThumbnail: true,
-            sourceUrl: 'https://whatsapp.com/channel/0029VbBw362A2pL9BOnpbP0H' // Link de tu canal
+            sourceUrl: 'https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q' // Link de tu canal
           }
         }
       }, { quoted: m })
