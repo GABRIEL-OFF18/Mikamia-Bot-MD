@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // --- Constantes y Configuración de Transmisión (Estilo Ellen Joe) ---
-const newsletterJid = '120363418071540900@newsletter';
+const newsletterJid = '120363424677971125@newsletter';
 const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ 𝐄llen 𝐉ᴏ𝐄\'s 𝐒ervice';
 
 const query = ['story%20wa', 'story%20sad', 'video%20fun', 'story%20wa%20galau', 'story%20wa%20sindiran', 'story%20wa%20bahagia', 'story%20wa%20lirik%20lagu%20overlay', 'story%20wa%20lirik%20lagu', 'video%20viral'];
