@@ -2,7 +2,7 @@ import { File } from "megajs";
 import path from "path";
 
 // --- Constantes y Configuración de Transmisión (Estilo Ellen Joe) ---
-const newsletterJid = '120363418071540900@newsletter';
+const newsletterJid = '120363424677971125@newsletter';
 const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ 𝐄llen 𝐉ᴏᴇ\'s 𝐒ervice';
 
 let handler = async (m, { conn, args, usedPrefix, text, command }) => {
