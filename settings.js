@@ -39,7 +39,7 @@ global.baileys = 'V 6.7.16'
 global.languaje = 'Español'
 global.vs = '2.2.0'
 global.nameqr = 'ellen-joe-bot'
-global.namebot = 'ᯓ★ KITSURY-WAIFU ִֶָ ࣪ ִֶָ🪽་༘࿐'
+global.namebot = 'ᯓ★ NAGI-BOT ִֶָ ࣪ ִֶָ🪽་༘࿐'
 global.Ellensessions = 'EllenSessions'
 global.jadi = 'EllenJadiBots'
 global.EllenJadibts = true
@@ -53,7 +53,7 @@ global.fkontak = {
 	},
 	message: {
 		contactMessage: {
-			displayName: `Ellen-Joe Bot`,
+			displayName: `Nagi-Ai Bot`,
 			vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;Ellen-Joe Bot;;;\nFN:Ellen-Joe Bot\nitem1.TEL;waid=1234567890:1234567890\nitem1.X-ABLabel:Bot\nEND:VCARD`
 		}
 	}
