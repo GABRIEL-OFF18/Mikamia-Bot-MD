@@ -35,7 +35,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
           },
           externalAdReply: {
             title: title,
-            body: 'Ellen Joe Service | Descanso en curso...',
+            body: 'N A G I| Descanso en curso...',
             thumbnailUrl: pp,
             mediaType: 1,
             renderLargerThumbnail: true,
