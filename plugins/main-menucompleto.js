@@ -17,7 +17,7 @@ let handler = async (m, { conn, usedPrefix}) => {
     info: 'ᴍᴇɴᴜ ɪɴꜰᴏ',
     anime: 'ᴍᴇɴᴜ ᴀɴɪᴍᴇ',
     buscador: 'ᴍᴇɴᴜ ʙᴜꜱᴄᴀᴅᴏʀ',
-    downloader: 'ᴍᴇɴᴜ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ',
+    descargas: 'ᴍᴇɴᴜ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ',
     fun: 'ᴍᴇɴᴜ ꜰᴜɴ',
     grupo: 'ᴍᴇɴᴜ ɢʀᴜᴘᴏ',
     ai: 'ᴍᴇɴᴜ ᴀɪ',
