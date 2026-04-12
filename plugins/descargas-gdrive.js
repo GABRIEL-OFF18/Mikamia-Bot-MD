@@ -1,7 +1,7 @@
 import fg from 'api-dylux'; // Asegúrate de que 'api-dylux' esté correctamente instalado
 
 // --- Constantes y Configuración de Transmisión (Estilo Ellen Joe) ---
-const newsletterJid = '120363418071540900@newsletter';
+const newsletterJid = '120363424677971125@newsletter';
 const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ 𝐄llen 𝐉ᴏ𝐄\'s 𝐒ervice';
 
 let free = 100; // Límite para usuarios estándar en MB
