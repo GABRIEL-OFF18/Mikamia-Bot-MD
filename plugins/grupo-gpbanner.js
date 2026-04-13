@@ -22,7 +22,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 
 handler.command = ['gpbanner', 'groupimg'];
 handler.group = true;
-Sandler.tag = [grupo]
+Sandler.tag = ['grupo']
 handler.admin = true;
 handler.botAdmin = true;
 
