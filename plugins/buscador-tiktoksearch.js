@@ -1,4 +1,4 @@
-handler.help = ['ytsearch <búsqueda>'];.handler.help
+
 const sendTts = async (conn, m, text, isError = false) => {
     const thumb = await global.getBannerThumb()
     const ctx   = global.getNewsletterCtx(
@@ -149,7 +149,7 @@ let handler = async (m, { conn, text }) => {
             (result.likes ? '❤️ *Likes:* ' + formatNum(result.likes) + '\n' : '') +
             (result.plays ? '▶️ *Vistas:* '  + formatNum(result.plays) + '\n' : '') +
             '\n╭─────────────────╮\n' +
-            '│  🦋 *' + global.botName + '*  │\n' +
+            '│  🦋 *' + global.botname + '*  │\n' +
             '╰─────────────────╯'
 
         const thumb = await global.getBannerThumb()
