@@ -179,7 +179,7 @@ let handler = async (m, { conn, text }) => {
     }
 }
 
-handler.help = ['ytsearch <búsqueda>'];
-handler.tags
+handler.help = ['tiktoksearch <búsqueda>'];
+handler.tags = ['buscador'];
 handler.command = ['tiktoksearch', 'tts', 'buscartt']
 export default handler
