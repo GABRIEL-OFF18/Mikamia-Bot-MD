@@ -28,7 +28,7 @@ let handler = async (m, { conn, usedPrefix}) => {
 > *_Grupos:_* ${groupsCount}
 > *_Activo:_* ${muptime}
 > *_Usuarios:_* ${totalreg}
-> *_Canal:_*https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q
+> *_Canal*:_https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q
 > *_Plataforma:_* *Ubuntu*
 `.trim();
 
