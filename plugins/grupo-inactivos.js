@@ -60,7 +60,7 @@ var handler = async (m, { conn, text, participants, args, command }) => {
     }
 }
 handler.tags = ['grupo']
-handler.command = ['inactivos', 'kickfantasmas']
+handler.command = ['fantasmas', 'kickfantasmas']
 handler.group = true
 handler.botAdmin = true
 handler.admin = true
