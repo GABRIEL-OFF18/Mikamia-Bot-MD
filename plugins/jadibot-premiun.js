@@ -39,7 +39,7 @@ let handler = async (m, { conn, text }) => {
 };
 
 handler.help = ['comprarpremium'];
-handler.tags = ['premium'];
+handler.tags = ['serbot'];
 handler.command = ['comprarpremium', 'premium', 'vip'];
 
 export default handler;
