@@ -18,6 +18,8 @@ let handler = async (m, { conn, usedPrefix}) => {
 
   const infoUser = `
 🍃 *_Hola, ${nombre}. Soy Nagi-BotV1._*
+*Comandos que no se registraron en el menú
+#pack #tetas*
 
 🌿 *_INFO USUARIO_*
 > *_Usuario:_* ${nombre}
