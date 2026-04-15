@@ -39,6 +39,5 @@ let handler = async (m, { conn, command }) => {
 handler.command = ['hentaivideo', 'hentaivid'];
 handler.tags = ['nsfw'];
 handler.help = ['hentaivideo'];
-handler.register = true;
 handler.nsfw = true;
 export default handler;
