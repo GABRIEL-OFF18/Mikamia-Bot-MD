@@ -11,9 +11,8 @@ handler.help = ['facto']
 handler.tags = ['fun']
 handler.command = ['facto']
 handler.fail = null
-handler.exp = 0
+handler.exp = 10
 handler.group = true;
-handler.register = true
 
 export default handler
 
