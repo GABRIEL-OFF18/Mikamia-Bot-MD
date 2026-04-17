@@ -16,7 +16,7 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
     forwardingScore: 999,
     forwardedNewsletterMessageInfo: { newsletterJid, newsletterName, serverMessageId: -1 },
     externalAdReply: {
-      title: '🖤 ⏤͟͟͞͞𝙀𝙇𝙇𝙀𝙉 - 𝘽𝙊𝙏 ᨶ႒ᩚ',
+      title: '🖤 Nagi - 𝘽𝙊𝙏 ᨶ႒ᩚ',
       body: `✦ 𝙀sperando 𝙩u s𝙤𝙡𝙞𝙘𝙞𝙩u𝙙, ${name}. ♡`,
       thumbnail: icons, 
       sourceUrl: redes, 
