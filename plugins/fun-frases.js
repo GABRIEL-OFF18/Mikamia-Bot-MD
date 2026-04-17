@@ -7,13 +7,12 @@ conn.reply(m.chat, `${emoji2} Buscando una frase, espere un momento...`, m)
 conn.reply(m.chat, `*┏━_͜͡-͜͡-͜͡-͜͡-͜͡-͜͡-͜͡⚘-͜͡-͜͡-͜͡-͜͡-͜͡-͜͡-͜͡⚘-͜͡-͜͡-͜͡-͜͡-͜͡-͜͡-͜͡⚘-͜͡-͜͡-͜͡-͜͡-͜͡-͜͡_͜͡━┓*\n\n❥ *"${pickRandom(global.frases)}"*\n\n*┗━_͜͡-͜͡-͜͡-͜͡-͜͡-͜͡-͜͡⚘-͜͡-͜͡-͜͡-͜͡-͜͡-͜͡-͜͡⚘-͜͡-͜͡-͜͡-͜͡-͜͡-͜͡-͜͡⚘-͜͡-͜͡-͜͡-͜͡-͜͡-͜͡_͜͡━┛*`, m)
 
 }
-handler.help = ['frase']
+handler.help = ['frases']
 handler.tags = ['fun']
-handler.command = ['frase']
+handler.command = ['frases']
 handler.fail = null
 handler.exp = 0
 handler.group = true;
-handler.register = true
 
 export default handler
 
