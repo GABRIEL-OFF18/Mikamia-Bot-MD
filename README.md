@@ -24,3 +24,13 @@
 git clone https://github.com/tuusuario/NAGI-AI.git
 cd NAGI-AI
 pip install -r requirements.txt
+
+
+
+⭐ ¡Apóyanos!
+Si NAGI-AI te está siendo útil, ¡dale una estrella al repositorio! ⭐
+
+
+
+
+*Desarrollado con ❤️ por* DEV-FEDEX
