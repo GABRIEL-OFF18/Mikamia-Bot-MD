@@ -44,7 +44,7 @@ handler.all = async function (m) {
   global.icono = await getBuffer(iconUrl)
 
   // Creador y otros
-  global.creador = 'Wa.me/18096758983'
+  global.creador = 'Wa.me/51941658192'
   global.ofcbot = `${conn.user.jid.split('@')[0]}`
   global.asistencia = 'Wa.me/18096758983'
   global.namechannel = '*NAGI-AICHANNEL*'
