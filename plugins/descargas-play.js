@@ -149,7 +149,6 @@ handler.help = ['play', 'ytmp3', 'ytmp4', 'ytv']
 handler.tags = ['descargas']
 handler.command = ['play', 'yta', 'ytmp3', 'playaudio', 'play2', 'ytv', 'ytmp4', 'mp4']
 handler.group = true
-handler.register = true
 handler.coin = 2
 
 export default handler
