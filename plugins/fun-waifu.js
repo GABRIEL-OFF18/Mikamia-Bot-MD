@@ -25,7 +25,7 @@ const handler = async (msg, { conn, usedPrefix, command }) => {
                 image: { url: randomImage },
                 caption: `💕 **Waifu aleatoria** ✨\n\n` +
                          `Total de waifus: ${waifuImages.length}\n` +
-                         `Escribe *\( {usedPrefix} \){command}* para otra`
+                         `Escribe *( #chica} ) para otra`
             }, { quoted: msg })
 
             return // Si se envía correctamente, salimos
@@ -51,8 +51,8 @@ const handler = async (msg, { conn, usedPrefix, command }) => {
     }
 }
 
-handler.help = ['waifu']
-handler.tags = ['anime', 'fun']
-handler.command = ['waifu', 'chica', 'waifurandom']
+handler.help = ['chica']
+handler.tags = ['fun']
+handler.command = [ 'chica']
 
 export default handler
