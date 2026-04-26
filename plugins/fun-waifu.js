@@ -1,8 +1,8 @@
 // === WAIFU COMMAND - Versión Anti-Rate Limit ===
 
 const waifuImages = [
-  "https://TU_ENLACE_DIRECTO_1.jpg",
-  "https://TU_ENLACE_DIRECTO_2.png",
+  "https://raw.githubusercontent.com/RamonFTGD/uploads/main/files/7d2ee2b63b3f5f2a5762abfa0.jpg",
+  "https://raw.githubusercontent.com/RamonFTGD/uploads/main/files/b24f914635191c1447c4bc741.jpg",
   // ... agrega aquí TODOS tus enlaces directos
   // Recomendación: usa al menos 15-20 imágenes diferentes
 ]
