@@ -8,6 +8,8 @@ const waifuImages = [
 
 "https://raw.githubusercontent.com/RamonFTGD/uploads/main/files/eaf3b2090f593298990568bcf.jpg",
 
+"https://raw.githubusercontent.com/RamonFTGD/uploads/main/files/c95916aff69f59668e7fec81b.jpg",
+
   // ... agrega aquí TODOS tus enlaces directos
   // Recomendación: usa al menos 15-20 imágenes diferentes
 ]
