@@ -25,7 +25,8 @@ const handler = async (msg, { conn, usedPrefix, command }) => {
                 image: { url: randomImage },
                 caption: `💕 **Waifu aleatoria** ✨\n\n` +
                          `Total de waifus: ${waifuImages.length}\n` +
-                         `Escribe *( #chica} ) para otra`
+                         `Escribe *#chica* para otra Waifu
+SIGUE el canal (https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q)`
             }, { quoted: msg })
 
             return // Si se envía correctamente, salimos
