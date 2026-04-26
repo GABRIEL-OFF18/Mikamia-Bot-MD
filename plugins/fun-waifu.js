@@ -1,4 +1,3 @@
-import fetch from 'node-fetch' // Solo si lo necesitas para otras cosas, aquí no es obligatorio
 
 // === AQUÍ PEGAS TUS ENLACES DIRECTOS DE IMÁGENES ===
 const waifuImages = [
