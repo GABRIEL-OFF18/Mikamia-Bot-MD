@@ -14,6 +14,8 @@ const waifuImages = [
 
 "https://raw.githubusercontent.com/RamonFTGD/uploads/main/files/91fbaa31356f3a999aa73a0cc.jpg",
 
+"https://optishield.uk/tmp/848efc3e7c2ce3669e6625a0d.jpg",
+
   // ... agrega aquí TODOS tus enlaces directos
   // Recomendación: usa al menos 15-20 imágenes diferentes
 ]
