@@ -23,6 +23,12 @@ const waifuImages = [
 "https://raw.githubusercontent.com/JTxs00/uploads/main/1777248919822.jpeg",
 
 "https://raw.githubusercontent.com/JTxs00/uploads/main/1777248926664.jpeg",
+
+"https://raw.githubusercontent.com/JTxs00/uploads/main/1777249028683.jpeg",
+
+"https://raw.githubusercontent.com/JTxs00/uploads/main/1777249034020.jpeg",
+
+"https://raw.githubusercontent.com/JTxs00/uploads/main/1777249045019.jpeg",
   // ... agrega aquí TODOS tus enlaces directos
   // Recomendación: usa al menos 15-20 imágenes diferentes
 ]
