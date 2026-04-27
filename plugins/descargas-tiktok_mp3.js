@@ -44,7 +44,6 @@ handler.help = ['tiktokmp3 <url>']
 handler.tags = ['descargas']
 handler.command = ['ttmp3']
 handler.group = true
-handler.register = true
 handler.coin = 2
 
 export default handler
