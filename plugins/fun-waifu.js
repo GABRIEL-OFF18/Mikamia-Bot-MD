@@ -17,6 +17,12 @@ const waifuImages = [
 "https://optishield.uk/tmp/848efc3e7c2ce3669e6625a0d.jpg",
 
 "https://raw.githubusercontent.com/JTxs00/uploads/main/1777248869890.jpeg",
+
+"https://raw.githubusercontent.com/JTxs00/uploads/main/1777248914817.jpeg",
+
+"https://raw.githubusercontent.com/JTxs00/uploads/main/1777248919822.jpeg",
+
+"https://raw.githubusercontent.com/JTxs00/uploads/main/1777248926664.jpeg",
   // ... agrega aquí TODOS tus enlaces directos
   // Recomendación: usa al menos 15-20 imágenes diferentes
 ]
