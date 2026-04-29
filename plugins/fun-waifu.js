@@ -9,6 +9,8 @@ const waifuImages = [
 
 "https://raw.githubusercontent.com/RamonFTGD/uploads/main/files/94736ec0305fdbc44a47d0e87.jpg",
 
+"https://raw.githubusercontent.com/RamonFTGD/uploads/main/files/a5596f322f32a1a0fbd1d2636.jpg",
+
 
 
 "https://raw.githubusercontent.com/RamonFTGD/uploads/main/files/780ec5b8dee27029ebf9f4edb.jpg",
@@ -62,10 +64,12 @@ const handler = async (msg, { conn, usedPrefix, command }) => {
 
             await conn.sendMessage(msg.chat, {
                 image: { url: randomImage },
-                caption: `💕 **Waifu aleatoria** ✨\n\n` +
+                caption: `💕 **CHICA aleatoria** ✨\n\n` +
                          `Total de waifus: ${waifuImages.length}\n` +
-                         `Escribe *#chica* para otra Waifu
-SIGUE el canal (https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q)`
+                         `Escribe *#chica* para otra chica xd
+SIGUE el canal
+
+(https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q)`
             }, { quoted: msg })
 
             return // Si se envía correctamente, salimos
