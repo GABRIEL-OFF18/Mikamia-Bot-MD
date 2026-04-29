@@ -5,6 +5,10 @@ const waifuImages = [
  
  "https://raw.githubusercontent.com/RamonFTGD/uploads/main/files/b24f914635191c1447c4bc741.jpg",
 
+"https://raw.githubusercontent.com/RamonFTGD/uploads/main/files/6e77d669e291c3b3fe93876b2.jpg",
+
+
+
 
 "https://raw.githubusercontent.com/RamonFTGD/uploads/main/files/780ec5b8dee27029ebf9f4edb.jpg",
 
