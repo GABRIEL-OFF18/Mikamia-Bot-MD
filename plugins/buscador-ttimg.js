@@ -29,7 +29,7 @@ var handler = async (m, { conn, text, usedPrefix, command }) => {
         info += `👤 *Usuario:* ${res.author}\n`
         info += `❤️ *Likes:* ${res.likes.toLocaleString()}\n`
         info += `📸 *Fotos encontradas:* ${fotos.length}\n\n`
-        info += `> *By: Barboza Developer x Zona Developers*`
+        info += `> *By: Dev-Fedex Developer*`
 
         await conn.sendMessage(m.chat, { 
             image: { url: fotos[0] }, 
