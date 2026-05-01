@@ -54,6 +54,6 @@ var handler = async (m, { conn, text, usedPrefix, command }) => {
 
 handler.help = ['tiktokimg']
 handler.tags = ['search']
-handler.command = 'tiktokimg', 'ttimg', 'ttsearch',
+handler.command = 'tiktokimg', 'ttimg', 'ttsearch'
 
 export default handler
