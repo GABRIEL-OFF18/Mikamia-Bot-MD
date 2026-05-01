@@ -24,7 +24,7 @@ var handler = async (m, { conn, text, usedPrefix, command }) => {
         const res = data.data[0]
         const fotos = res.download 
 
-        let info = `✨ *TIKTOK SEARCH — BARBOZA*\n\n`
+        let info = `✨ *TIKTOK SEARCH — DEV-FEDEX*\n\n`
         info += `📝 *Descripción:* ${res.title || 'Sin descripción'}\n`
         info += `👤 *Usuario:* ${res.author}\n`
         info += `❤️ *Likes:* ${res.likes.toLocaleString()}\n`
