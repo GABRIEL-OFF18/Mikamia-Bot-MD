@@ -30,8 +30,8 @@ var handler = async (m, { conn, text, usedPrefix, command }) => {
         response += `┗━━━━━━━━━━━━━━━━┛\n\n`
         response += `💡 *RESPUESTA:*\n${data.result}\n\n`
         response += `━━━━━━━━━━━━━━━━━━━━\n`
-        response += `⚡ *By: Barboza Developer*\n`
-        response += `🌐 *Zona Developers*`
+        response += `⚡ *By: DEV-FEDEX Developer*\n`
+        response += `🌐 *PENE*`
 
         await conn.reply(m.chat, response, m)
         await m.react('✅')
