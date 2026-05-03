@@ -66,10 +66,15 @@ const handler = async (msg, { conn, usedPrefix, command }) => {
                 image: { url: randomImage },
                 caption: `💕 **CHICA aleatoria** ✨\n\n` +
                          `Total de waifus: ${waifuImages.length}\n` +
-                         `Escribe *#chica* para otra chica xd
-SIGUE el canal
+                         `𝙴𝚂𝙲𝚁𝙸𝙱𝙴 *#chica* 𝙿𝙰𝚁𝙰 𝙾𝚃𝚁𝙰 𝙲𝙷𝙸𝙲𝙰 
+ 
+╓┈♔◦☓◦☙◦♔◦☙◦☓◦♔┈╖
+𝐒𝐈𝐆𝐔𝐄 𝐄𝐋 𝐂𝐀𝐍𝐀𝐋
+𝐍𝐀𝐆𝐈-𝐀𝐈
 
-(https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q)`
+https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q
+╙┈♔◦☓◦☙◦♔◦☙◦☓◦♔┈╜
+`
             }, { quoted: msg })
 
             return // Si se envía correctamente, salimos
