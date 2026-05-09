@@ -88,7 +88,7 @@ let handler = async (m, { conn, usedPrefix}) => {
 }
 
   let finalMenu = infoUser + '\n\n' + menu.join('\n\n') + '\n' + after;
-  let imagen = 'https://cdn.yupra.my.id/yp/vtyd7h3h.jpg';
+let imagen = global.menuImage?.[conn.user.jid] || 'https://cdn.yupra.my.id/yp/vtyd7h3h.jpg';
 
   await m.react('🍃');
 
