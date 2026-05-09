@@ -52,8 +52,11 @@ let handler = async (m, { conn, usedPrefix}) => {
     return [h, m, s].map(v => v.toString().padStart(2, '0')).join(':');
 }
 
-  let infoUser = `
-🍃 *_Hola, ${nombre} Soy Nagi-BotV1._*
+  // Nombre dinámico por bot
+const botName = global.botName?.[conn.user.jid] || global.namebot || 'Nagi-Bot';
+
+let infoUser = `
+🍃 *_Hola, ${nombre} Soy ${botName}._*
 
 *_🌿 𝙄𝙉𝙁𝙊 𝙐𝙎𝙐𝘼𝙍𝙄𝙊_*
 > *_Usuario:_* *${nombre}*
