@@ -50,6 +50,7 @@ handler.all = async function (m) {
   global.namechannel = '*NAGI-AICHANNEL*'
   global.namechannel2 = '*NAGI-AI-CHANNEL*'
   global.namegrupo = '*NAGI-OFICIAL*'
+  global.web = 'https://mi-web-smoky.vercel.app/'
   global.namecomu = '*NAGI-AI-COMMUNITY*'
   global.listo = '⚽ *Aquí tienes ฅ^•ﻌ•^ฅ*'
   global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
