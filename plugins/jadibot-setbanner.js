@@ -37,7 +37,7 @@ let handler = async (m, { conn, text, isOwner, usedPrefix, command }) => {
 };
 
 handler.help = ['setmenuimg'];
-handler.tags = ['owner'];
+handler.tags = ['serbot'];
 handler.command = ['setmenuimg', 'setimgmenu', 'menuimg', 'setbanner'];
 
 export default handler;
