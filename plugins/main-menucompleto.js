@@ -63,6 +63,7 @@ let handler = async (m, { conn, usedPrefix}) => {
 *_🌿 𝘿𝘼𝙏𝙊𝙎 𝘿𝙀𝙇 𝘽𝙊𝙏_*
 > *_Grupos:_* *${groupsCount}*
 > *_Activo:_* *${muptime}*
+> *_Comands:_* *${https://mi-web-smoky.vercel.app/}*
 > *_Usuarios:_* *${totalreg}*
 > *_Plataforma:_* *Ubuntu*
 
