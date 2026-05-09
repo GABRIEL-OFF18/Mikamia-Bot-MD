@@ -15,7 +15,7 @@ let handler = async (m, { conn, text, isOwner, usedPrefix, command }) => {
 };
 
 handler.help = ['setname'];
-handler.tags = ['owner'];
+handler.tags = ['setbot'];
 handler.command = ['setname', 'setbotname', 'setnombrebot'];
 
 export default handler;
