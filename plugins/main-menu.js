@@ -194,7 +194,6 @@ global.rcanal = {
 handler.help = ['menu']
 handler.tags = ['main']
 handler.command = ['allmenu', 'help', 'menu'] 
-handler.register = true 
 export default handler
 
 const more = String.fromCharCode(8206)
